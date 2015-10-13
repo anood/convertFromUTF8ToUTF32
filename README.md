@@ -1,5 +1,5 @@
 # convertFromUTF8ToUTF32
-convert utf8 to utf32 and and vice versa  ,  from utf8 to utf16 and vice versa.
+convert utf8 to utf32 and and vice versa  ,  from utf8 to utf16 and vice versa, using icu library.
 <br/>
 <h1>first:</h1> you have to install icu library 
 <br />	
