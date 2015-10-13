@@ -1,10 +1,10 @@
 # convertFromUTF8ToUTF32
 convert utf8 to utf32 and from utf32 to utf8 , and convert from utf8 to utf16 
 <br/>
-first: you have to install icu library 
+<h1>first:</h1> you have to install icu library 
 <br />	
-sudo apt-get install libicu-dev.
-for more information :
-visit http://userguide.icu-project.org/
-and icu api  http://icu-project.org/apiref/icu4c/index.html
+<b>sudo apt-get install libicu-dev </b>
+<br/> <hr/>for more information :
+<b>visit </b> http://userguide.icu-project.org/
+<br/>and <b>icu api</b>  http://icu-project.org/apiref/icu4c/index.html
 
